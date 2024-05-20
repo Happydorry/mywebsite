@@ -1,0 +1,16 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Happydorry.github.io/mywebsite",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
